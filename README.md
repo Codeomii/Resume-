@@ -17,7 +17,7 @@ I am a passionate B.Tech 2nd-year student specializing in Artificial Intelligenc
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, SQL, Java  
+- **Languages:** Python 
 - **Core Concepts:** Data Structures & Algorithms, Data Modeling  
 - **Data Engineering:** ETL Basics, Data Processing  
 - **Databases:** MySQL, NoSQL  
